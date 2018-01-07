@@ -76,7 +76,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Tumblr"
-    url = "http://tumblr.com/the-ooray/"
+    url = "http://the-ooray.tumblr.com/"
     pre = "<i class='fa fa-2x fa-tumblr'></i>"
 
 
