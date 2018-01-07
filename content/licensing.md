@@ -6,7 +6,7 @@ draft: false
 
 I am a big fan of Creative Commons. Without Creative Commons licensing, my work would not be seen and used on as many videos and other works.
 
-###Creative Commons Licensed Works
+### Creative Commons Licensed Works
 
 <p>Two of my works are freely available via the Free Music Archive: <a href="https://freemusicarchive.org/music/The_OO-Ray/The_Force_of_Water/">The Force of Water</a> and the <a href="https://freemusicarchive.org/music/The_OO-Ray/Snowglobe_EP/">Snowglobe EP</a>.  They are also available via the <a href="https://vimeo.com/musicstore/track/58364/silhouettes-by-the-oo-ray">Vimeo Music Store</a>.</p>
 
