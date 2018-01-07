@@ -1,0 +1,1 @@
+options(blogdown.subdir="blog")
