@@ -46,6 +46,11 @@ paginate = 10
     name = "Licensing"
     url  = "/licensing"
     weight = 4
+    
+[[menu.main]]
+    name = "Videos"
+    url  = "/videos"
+    weight = 4
 
 # Top bar social links menu
 
