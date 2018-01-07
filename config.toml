@@ -72,8 +72,16 @@ paginate = 10
     url = "http://twitter.com/ooray/"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
+
 [[menu.topbar]]
     weight = 4
+    name = "Tumblr"
+    url = "http://tumblr.com/the-ooray/"
+    pre = "<i class='fa fa-2x fa-tumblr'></i>"
+
+
+[[menu.topbar]]
+    weight = 5
     name = "Email"
     url = "ted@15people.net"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
