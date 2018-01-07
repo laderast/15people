@@ -1,6 +1,5 @@
 ---
 title: New Website
-author: ~
 date: '2018-01-07'
 slug: new-website
 categories: ["website", "fyi"]
