@@ -12,7 +12,7 @@ I am a big fan of Creative Commons. Without Creative Commons licensing, my work 
 
 <p>In general, I license my tracks under <a href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons NonCommercial Attribution Required</a>. This means that if you attribute my work and aren’t selling your video or remix, you are free to use it. All other uses will have to contact me directly at ted@15people.net. I am very open to usage; contact me and we’ll talk.</p>
 
-### My Policy for Creative Commons Non-Commerical Use
+### My Policy for Creative Commons Non-Commercial Use
 
 <p>In response to some feedback about my use of a NonCommercial license, here are some common use cases of my music that I consider NonCommercial and I guarantee I will not enforce. I consider these NonCommercial in terms of the clause: “A commercial use is one primarily intended for commercial advantage or monetary compensation.”</p>
 <ul><li><span style="line-height: 1.4;">Blog posts/Tweets/Social media sharing my music that generate advertising income for the user.</span></li>
