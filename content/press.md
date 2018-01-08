@@ -6,7 +6,7 @@ draft: false
 
 <p>Here are some reviews and writeups of my work, sorted by date.</p>
 
-[Nuvole Review at Tiny Mixtapes](https://www.tinymixtapes.com/chocolate-grinder/premiere-robert-donne-stephen-vitiello-and-oo-ray-ted-laderas-nuvole):
+[Tiny Mixtapes review of *Nuvole*](https://www.tinymixtapes.com/chocolate-grinder/premiere-robert-donne-stephen-vitiello-and-oo-ray-ted-laderas-nuvole):
 
 <blockquote>
 Waking up in the future was similar to this morning: touching down both feet upon the ground with a fair assessment of where they’ll take you for the day. Then you see in your closet that Robert Donne, Stephen Vitiello and The OO-Ray (Ted Laderas) have been watching you sleep all night and the first word outta your mouth is, “Nuvole.” You ain’t never spoke Italian before, but as they approach a naked, half asleep version of you standing by your bed, you realize you’re fluently speaking in Italian, but really just ambiance. Within the language of ambiance, you ask the trio of slow-stroked brilliance if everything has been droned away with, and your new daily activity is finding meditative lengths guided by their newest piece of work on Geographic North. In long form movements, spacial and temporal warping, master-level patience, and complete frequency, the three answer back in two forms of Nuvole. Both these two forms comprise each side of their newest release, entitled Nuvole, and we can all (now) find the meaning to our daily “SOS” lives!
@@ -32,8 +32,9 @@ Waking up in the future was similar to this morning: touching down both feet upo
 <p><a href="http://www.tinymixtapes.com/chocolate-grinder/listen-oo-ray-scenes-from-a-wedding-live-at-pendarvis-farms-8-17-13">Tiny Mix Tapes on my set <em>Live at Pendarvis Farms</em></a> </p>
 <blockquote>
 <p>The clean, almost cliché loveliness of the cello is turned forlorn and melancholy by the repetitive, looping nature of the performance, and the continuous layering of complicated emotional fragments on top only add to the overall beauty of the mix.</p>
-</blockquote>
-<p>[Creative Commons Thing of the Day])(<a href="http://ccthing.tumblr.com/post/97566525167/silhouettes-the-oo-ray-cc-by-nc-sa-3-0">http://ccthing.tumblr.com/post/97566525167/silhouettes-the-oo-ray-cc-by-nc-sa-3-0</a>) </p>
+</blockquote></p>
+<p>
+[Creative Commons Thing of the Day])(http://ccthing.tumblr.com/post/97566525167/silhouettes-the-oo-ray-cc-by-nc-sa-3-0) </p>
 <p><a href="http://www.fluid-radio.co.uk/2014/02/m-fischer-the-oo-ray/">Fluid Radio Review of <em>Tulong</em> (w/ Marcus Fischer)</a><br/><a href="http://www.secretdecoder.net/blog/2014/01/29/marcus-fischer-the-oo-ray-tulong/">Secret Decoder review of <em>Tulong</em></a> </p>
 <blockquote>
 <p>Each track glides along at a slow pace, cracking like a stroll down autumnal lanes illuminated by streetlights. Tones are stretched out and given complete room to breathe. While “Deluge” is a more solemn affair, resembling a Nick Cave score played at a quarter-speed, “Reconstruction” almost feels like a literal picking up of the pieces. There’s a hope and will in the sustained notes.</p>
