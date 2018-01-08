@@ -5,6 +5,11 @@ draft: false
 ---
 
 <p>Here are some reviews and writeups of my work, sorted by date.</p>
+
+[Nuvole Review at Tiny Mixtapes](https://www.tinymixtapes.com/chocolate-grinder/premiere-robert-donne-stephen-vitiello-and-oo-ray-ted-laderas-nuvole):
+
+Waking up in the future was similar to this morning: touching down both feet upon the ground with a fair assessment of where they’ll take you for the day. Then you see in your closet that Robert Donne, Stephen Vitiello and The OO-Ray (Ted Laderas) have been watching you sleep all night and the first word outta your mouth is, “Nuvole.” You ain’t never spoke Italian before, but as they approach a naked, half asleep version of you standing by your bed, you realize you’re fluently speaking in Italian, but really just ambiance. Within the language of ambiance, you ask the trio of slow-stroked brilliance if everything has been droned away with, and your new daily activity is finding meditative lengths guided by their newest piece of work on Geographic North. In long form movements, spacial and temporal warping, master-level patience, and complete frequency, the three answer back in two forms of Nuvole. Both these two forms comprise each side of their newest release, entitled Nuvole, and we can all (now) find the meaning to our daily “SOS” lives!
+
 <p><a href="http://www.textura.org/reviews/ooray_emptyorchestra.htm">Textura Review of <em>Empty Orchestra</em></a></p>
 <blockquote>
 <p>It&rsquo;s an awesome, all-consuming cathedral of sound that merges the raw and the refined: noise dronescaping sweetened with themes of an oft-melancholic and chamber classical-styled nature (see “Vapours” and “Hunting Song” as excellent illustrations of the style).</p>
