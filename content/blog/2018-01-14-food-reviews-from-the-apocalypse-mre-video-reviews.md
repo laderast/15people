@@ -25,4 +25,4 @@ Finally, I find a lot of comfort in seeing reviews of MREs from across the world
 
 Watching these videos, I imagine the manufacturers of MREs to be half food scientists and half cafeteria lunch people, but in a good way. "We designed the content of this meal to both appeal to homesick soldiers while providing them enough nutrition to get through the day". Between the boredom of waiting, the uncertainty of everything, and the sudden bursts of violence, providing soldiers with the taste of home and some comfort becomes important. Food can be a bolster against all of these, and so making a good MRE is as important as anything else in the life of a soldier.
 
-Anyhow, this was just my quick foray into one of my latest YouTube obsessions. 
+Anyhow, this was just my quick foray into one of my latest YouTube obsessions. I'm not really a doomsday prepper, but at the very least, I might be prepared and comforted a little bit in the case of a natural disaster.
