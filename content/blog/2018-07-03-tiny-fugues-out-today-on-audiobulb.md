@@ -6,7 +6,7 @@ slug = "tiny-fugues-out-today-on-audiobulb"
 categories = ["album"]
 tags = ["album"]
 banner= 'img/tinyfugues.jpg'
----
++++
 
 Hello everyone - I'd just like to announce that *Tiny Fugues*, my follow-up to *Empty Orchestra*, is [out now on Audiobulb](http://www.audiobulb.com/albums/AB078/AB078.htm). It's a little more acoustic, and a little more symphonic than that album. I hope you enjoy!
 
