@@ -23,4 +23,4 @@ But of all the people I can think of, he was more than worthy and gave out way m
 
 Honestly, I do wonder if there is anything that separates me from him, that I am living now and he isn't. I'm not sure. I don't know Brian's real and complete story beyond what he shared. The only thing I know how to do in the wake of his death is to renew my resolve to live. Brian's mother has asked that we donate to the Suicide Prevention Fund.
 
-Please, if you read this, and have thoughts of suicide, please call the National Suicide Prevention Lifeline at 1-800-273-8255 (TALK) or go to http://SpeakingOfSuicide.com/resources for a list of additional resources.
+> Please, if you read this, and have thoughts of suicide, please call the National Suicide Prevention Lifeline at 1-800-273-8255 (TALK) or go to http://SpeakingOfSuicide.com/resources for a list of additional resources.
