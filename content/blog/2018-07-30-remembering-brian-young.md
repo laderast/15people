@@ -4,7 +4,8 @@ author: ~
 date = '2018-07-03'
 slug = "remembering-brian-young"
 categories = ["remembering"]
-tags = ["album"]
+tags = ["brian young", "losingtoday"]
+banner= 'img/brian1.png'
 +++
 
 ![From https://www.flickr.com/photos/stillespace/](img/brian1.png)
