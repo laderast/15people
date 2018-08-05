@@ -17,7 +17,7 @@ Brian and I got to know each other through all of the shows we attended together
 
 We connected through our depression; both of us were survivors of chronic depression that seemed to follow us through our lives. Brian was a deep feeler, which I know made it hard for him. He could be deeply passionate about something, but he could also be deeply devastated about something as well. I know how easy it is to be hard on oneself when depressed. How every little thing seems like a personal affront, a negative message telling you that you're unworthy of being here.
 
-![From https://www.flickr.com/photos/stillespace/](/static/img/brian3.png)
+![From https://www.flickr.com/photos/stillespace/](/img/brian3.png)
 
 But of all the people I can think of, he was more than worthy and gave out way more than he took back. Brian was a good person and a true artist. I partially write this so I won't forget him, and to encourage people to [please take a look at his art](https://www.flickr.com/photos/stillespace/). His art is wonderful and truly a monument to how great a person he was.
 
