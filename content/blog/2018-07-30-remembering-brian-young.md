@@ -1,6 +1,6 @@
 +++
 title = "Remembering Brian Young"
-author: ~
+author= ~
 date = '2018-07-03'
 slug = "remembering-brian-young"
 categories = ["remembering"]
