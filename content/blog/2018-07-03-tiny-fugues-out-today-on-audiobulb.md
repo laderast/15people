@@ -7,6 +7,8 @@ tags = ["album"]
 banner= 'img/tinyfugues.jpg'
 +++
 
+![Tiny Fugues Photo](/static/img/tinyfugues.jpg)
+
 Hello everyone - I'd just like to announce that *Tiny Fugues*, my follow-up to *Empty Orchestra*, is [out now on Audiobulb](http://www.audiobulb.com/albums/AB078/AB078.htm). It's a little more acoustic, and a little more symphonic than that album. I hope you enjoy!
 
 Many of the tracks are based on improvisations using my Pure Data software called the fuguelooper that converts my ambient improvisations into more rhythmic material, allowing me to change my sounds across octaves and speeds, stretching and compressing my material into unexpected directions. The software works as a lens to highlight unexpected details of my performances and encourages me to react and improvise in new ways. The fuguelooper has been important in my latest improvisations and performances, and it gives
