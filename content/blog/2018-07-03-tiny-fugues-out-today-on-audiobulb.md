@@ -7,7 +7,7 @@ tags = ["album"]
 banner= 'img/tinyfugues.jpg'
 +++
 
-![Tiny Fugues Photo](/img/tinyfugues.jpg)
+<img src="/img/tinyfugues.jpg" width = "500">
 
 Hello everyone - I'd just like to announce that *Tiny Fugues*, my follow-up to *Empty Orchestra*, is [out now on Audiobulb](http://www.audiobulb.com/albums/AB078/AB078.htm). It's a little more acoustic, and a little more symphonic than that album. I hope you enjoy!
 
