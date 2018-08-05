@@ -1,6 +1,5 @@
 +++
 title = "Tiny Fugues out today on Audiobulb"
-author = ~
 date = '2018-07-03'
 slug = "tiny-fugues-out-today-on-audiobulb"
 categories = ["album"]
