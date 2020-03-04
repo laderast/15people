@@ -1,11 +1,11 @@
----
-title: Where I've Been
-author: "Ted Laderas"
-date: '2020-03-04'
-slug: where-i-ve-been
-categories: ["depression"]
-tags: ["depression", "collaboration"]
----
++++
+title = "It's been a while"
+author = "Ted Laderas"
+date = '2020-03-04'
+slug = "where-i-ve-been"
+categories = ["depression"]
+tags = ["depression", "collaboration"]
++++
 
 I wish I had a good reason for not posting on this blog and staying away from the music scene. The truth is, I think I had a variety of reasons.
 
