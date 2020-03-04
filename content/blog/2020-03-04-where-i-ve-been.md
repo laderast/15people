@@ -1,6 +1,6 @@
 ---
 title: Where I've Been
-author: ~
+author: "Ted Laderas"
 date: '2020-03-04'
 slug: where-i-ve-been
 categories: ["depression"]
