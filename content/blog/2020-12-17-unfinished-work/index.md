@@ -26,7 +26,7 @@ The only constant to art is that the rules are not fixed. Becoming fixated on wh
 
 ## Free your RAM
 
-I have folder full of unfinished pieces. At some point, I will have to just not finish these pieces because they are weights on my creative brain.
+I have a folder full of unfinished pieces. At some point, I will have to just not finish these pieces because they are weights on my creative brain.
 
 Your creative brain has limited RAM. If you’re fixated on the failures, and whether or not what you work on is going to be a failure, you leave little room for being creative. 
 
