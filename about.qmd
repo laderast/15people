@@ -1,5 +1,6 @@
 ---
 title: "Bio"
+title-block-banner: texture-bw.png
 about:
   template: jolla
   links:
