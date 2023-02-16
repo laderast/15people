@@ -8,6 +8,7 @@ website:
       - about.qmd
       - music.qmd
       - videos.qmd
+      - press.qmd
       - licensing.qmd
       - href: https://tinyletter.com/ooray
         text: Mailing List
@@ -16,7 +17,7 @@ website:
       
 format:
   html:
-    theme: darkly
+    theme: lux
     css: styles.css
 
 
