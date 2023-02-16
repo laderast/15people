@@ -5,7 +5,7 @@ date: '2023-02-14'
 
 ![](generate.jpeg)
 
-My latest album "Generate"" is now on Audiobulb.
+My latest album *Generate* is now on Audiobulb.
 
 This album is my attempt to overcome writer’s block and my perfectionism by using generative music processes. I started with simple musical ideas that I mutated with musical algorithms to break down my writer’s block. The result was my way out of perfectionism. I’m very excited about this new musical direction and hope that you will be as well.
 
