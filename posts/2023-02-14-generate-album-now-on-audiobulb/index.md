@@ -1,8 +1,9 @@
 ---
 title: "Generate Album now on Audiobulb"
 date: '2023-02-14'
-image: generate.jpeg
 --- 
+
+![](generate.jpeg)
 
 My latest album "Generate"" is now on Audiobulb.
 
