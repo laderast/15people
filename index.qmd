@@ -1,0 +1,13 @@
+---
+title: "Website for The OO-Ray"
+listing:
+  contents: posts
+  sort: "date desc"
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+
