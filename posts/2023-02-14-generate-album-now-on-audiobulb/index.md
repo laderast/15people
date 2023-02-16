@@ -1,6 +1,8 @@
 ---
 title: "Generate Album now on Audiobulb"
 date: '2023-02-14'
+categories: ["album"]
+tags: ["album"]
 --- 
 
 ![](generate.jpeg)

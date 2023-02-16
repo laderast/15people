@@ -1,8 +1,8 @@
 ---
 title: Quiescent EP for Oregon Food Bank
 date: '2020-03-29'
-categories: []
-tags: []
+categories: ["album"]
+tags: ["album"]
 banner: quiescent.jpg
 ---
 
