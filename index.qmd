@@ -1,5 +1,6 @@
 ---
-title: "Website for The OO-Ray"
+title: "The OO-Ray: Cellist, Composer, Programmer"
+image: texture.jpg
 listing:
   contents: posts
   sort: "date desc"
