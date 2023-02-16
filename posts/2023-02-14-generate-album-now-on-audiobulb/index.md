@@ -11,4 +11,4 @@ This album is my attempt to overcome writer’s block and my perfectionism by us
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1067628192/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://theoo-ray.bandcamp.com/album/generate">Generate by The OO-Ray</a></iframe>
 
-Check it out here: https://theoo-ray.bandcamp.com/album/generate
+Check it out here: <https://theoo-ray.bandcamp.com/album/generate>

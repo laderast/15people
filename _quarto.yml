@@ -9,6 +9,8 @@ website:
       - music.qmd
       - videos.qmd
       - licensing.qmd
+      - href: https://tinyletter.com/ooray
+        text: Mailing List
       - icon: twitter
         href: https://twitter.com/ooray
       
