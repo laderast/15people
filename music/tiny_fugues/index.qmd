@@ -1,12 +1,11 @@
 ---
 title: "Tiny Fugues"
-date: 2015-07-13
+date: 2018-07-13
 categories: [album, audiobulb]
 ---
 
 ![Cover](cover.jpeg) 
-
-Album released on Audiobulb.
+I’ve worked on the material for Tiny Fugues for over three years, composing and improvising with the cello and electronic instruments. This album is about searching and finding the unexpected in the everyday. Finding hope and positivity in the midst of despair and depression. Finding the grand and symphonic in simple melodies. Through this search, and our resulting curiosity and compassion for everything around us, I believe we can find hope and meaning in very dark times. This album is based around custom-built software (the fuguelooper) that converts my ambient limprovisations into more rhythmic material, allowing me to change my sounds across octaves and speeds, stretching and compressing my material into unexpected directions. The software works as a lens to highlight unexpected details of my performances, and encourages me to react and improvise in new ways. The fuguelooper has been important in my latest improvisations and performances, and it gives these new pieces a dynamically shifting and unpredictable backing. By searching for the extraordinary in what we once thought mundane, we can find connections and meaning. Our art can change our surroundings. Our curiosity and compassion will sustain us. I hope that this album inspires you to do that.
 
 # Links
 
