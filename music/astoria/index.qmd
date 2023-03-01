@@ -6,7 +6,7 @@ categories: [album, audiobulb]
 
 ![Cover](cover.jpeg) 
 
-Album released on Waveguide Audio.
+Album released on Audiobulb (digital) and Waveguide Audio (physical).
 
 # Links
 
