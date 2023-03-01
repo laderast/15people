@@ -4,10 +4,9 @@ date: 2013-05-25
 categories: [album]
 ---
 
-![Empty Orchestra Cover](cover.jpeg) 
+![Cover](cover.jpeg) 
 
-Album released on Waveguide Audio.
-
+This album is my gift to the music and film community, collecting 10 tracks recorded from 2012-2013. This is your album. Feel free to remix it, use it as a soundtrack, incorporate it into your non­commercial ventures. Please treat the music with kindness. It's my gift to you. If you do use it in your work, drop me an email. All other uses please contact me directly for permission.
 # Links
 
 [Bandcamp](https://waveguideaudio.bandcamp.com/album/the-force-of-water){.btn .btn-primary role="button"} 
