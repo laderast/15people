@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2018-01-07">
 
-<title>The OO-Ray – Music</title>
+<title>The OO-Ray - Music</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -59,12 +60,42 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -119,7 +150,9 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="album">album <span class="quarto-category-count">(5)</span></div><div class="category" data-category="audiobulb">audiobulb <span class="quarto-category-count">(2)</span></div><div class="category" data-category="lifelike-family">lifelike-family <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -133,12 +166,6 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">January 7, 2018</p>
-    </div>
-  </div>
   
     
   </div>
@@ -146,116 +173,187 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="albums" class="level2">
-<h2 class="anchored" data-anchor-id="albums">Albums</h2>
-<p>
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=1359647858/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" style="border: 0; width: 300px; height: 300px;">
-&lt;a href=“http://lifelikefamily.bandcamp.com/album/empty-orchestra” data-mce-href=“http://lifelikefamily.bandcamp.com/album/empty-orchestra”&gt;Empty Orchestra by The OO-Ray&lt;/a&gt;
-</iframe>
-</p>
-<p>
-<em>Empty Orchestra</em> (out now on <a href="http://lifelikefamily.bandcamp.com" target="_blank">Lifelike Family</a>, 2015)
-</p>
-<p>
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=3956225042/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" style="border: 0; width: 300px; height: 300px;">
-&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=”http://waveguideaudio.bandcamp.com/album/the-force-of-water” data-mce-href=”http://waveguideaudio.bandcamp.com/album/the-force-of-water”&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;The Force of Water by The OO-Ray&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
-</iframe>
-</p>
-<p>
-<a href="https://waveguideaudio.bandcamp.com/album/the-force-of-water"><em>The Force of Water</em></a> (Waveguide Audio, 2013)
-</p>
-<p>
-<a href="http://www.audiobulb.com/albums/AB048/AB048.htm"><img height="300/" src="https://78.media.tumblr.com/518986c3b62c4fa10e9e43065a9f45e6/tumblr_inline_nlp6ffhmyW1sye3ga_500.jpg" width="300"></a>
-</p>
-<p>
-<em><a href="http://www.audiobulb.com/albums/AB048/AB048.htm">Astoria</a></em> (Audiobulb, 2011)
-</p>
-<p>
-<a href="https://archive.org/details/luv022"><img height="300" src="https://78.media.tumblr.com/1154c108cac1e184404345b596b94511/tumblr_inline_nlp6mkdaFV1sye3ga_500.jpg" width="300"></a>
-</p>
-<p>
-<em><a href="https://archive.org/details/luv022">Magnifications</a></em> (luvsound, 2009)
-</p>
-</section>
-<section id="collaborations" class="level2">
-<h2 class="anchored" data-anchor-id="collaborations">Collaborations</h2>
-<p><a href="http://marcus-fischer.bandcamp.com/album/film-variations">Film Variations (with Marcus Fischer)</a><br> <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=4049706219/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless=""></iframe></p>
-<p><a href="http://geographicnorth.bandcamp.com/album/nuvole">Nuvole by Robert Donne, Stephen Vitiello, and The OO-Ray (Ted Laderas)</a><br> <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=113642518/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless=""></iframe></p>
-<p>
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=1463396763/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" style="border: 0; width: 300px; height: 300px;">
-&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=”http://twinspringstapes.bandcamp.com/album/v” data-mce-href=”http://twinspringstapes.bandcamp.com/album/v”&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;V by Le B’OO-Ray&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
-</iframe>
-</p>
-<p>
-<em>V</em> (w/ Le Berger as Le B’OO-Ray, 2014)
-</p>
-<p>
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=3010636282/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" style="border: 0; width: 300px; height: 300px;">
-&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=”http://marcus-fischer.bandcamp.com/album/tulong” data-mce-href=”http://marcus-fischer.bandcamp.com/album/tulong”&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Tulong by Marcus Fischer + the OO-Ray&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
-</iframe>
-</p>
-<p>
-<em>Tulong</em> (w/ Marcus Fischer, Bandcamp, 2014)
-</p>
-<p>
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=191816574/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" style="border: 0; width: 300px; height: 300px;">
-&amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=”http://kesh.bandcamp.com/album/two-rooms” data-mce-href=”http://kesh.bandcamp.com/album/two-rooms”&amp;amp;amp;amp;amp;amp;amp;amp;gt;Two Rooms by Unrecognizable Now&amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;gt;
-</iframe>
-</p>
-<p>
-<em>Two Rooms</em> (w/ Unrecognizable Now, Kesh, 2013)
-</p>
-<p>
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2937183756/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" style="border: 0; width: 300px; height: 300px;">
-&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=”http://opticecho.bandcamp.com/album/tessellations-oe010” data-mce-href=”http://opticecho.bandcamp.com/album/tessellations-oe010”&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Tessellations (oe010) by Marcus Fischer + The OO-Ray&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
-</iframe>
-</p>
-<p>
-<em>Tessellations</em> (w/ Marcus Fischer, Opticecho, 2012)
-</p>
-</section>
-<section id="eps-and-singles" class="level2">
-<h2 class="anchored" data-anchor-id="eps-and-singles">EPs and Singles</h2>
-<p>
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=1681755025/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" style="border: 0; width: 300px; height: 300px;">
-&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=”http://waveguideaudio.bandcamp.com/album/snowglobe-ep” data-mce-href=”http://waveguideaudio.bandcamp.com/album/snowglobe-ep”&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Snowglobe EP by The OO-Ray&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
-</iframe>
-</p>
-<p>
-<em>Snowglobe</em> (Waveguide Audio)
-</p>
-<p>
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=379792684/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" style="border: 0; width: 300px; height: 300px;">
-&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=”http://ooray.bandcamp.com/album/songs-for-japan” data-mce-href=”http://ooray.bandcamp.com/album/songs-for-japan”&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Songs For Japan by The OO-Ray&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
-</iframe>
-</p>
-<p>
-<em>Songs for Japan</em> (Waveguide Audio)
-</p>
-<p>
-<a href="http://distancerecordings.com/dist025" target="_blank"><img src="https://78.media.tumblr.com/8cd835c23495b26c723dfb91eaf59ad3/tumblr_inline_nlp7bqM1W11sye3ga_500.png"></a>
-</p>
-<p>
-<a href="http://distancerecordings.com/dist025" target="_blank">Waimea</a> (Distance Recordings)
-</p>
-<section id="compilations" class="level3">
-<h3 class="anchored" data-anchor-id="compilations">Compilations</h3>
-<p>
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2286113120/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/track=131695521/transparent=true/" style="border: 0; width: 300px; height: 300px;">
-&amp;amp;amp;amp;amp;amp;lt;a href=”http://futuresequence.bandcamp.com/album/sequence2” data-mce-href=”http://futuresequence.bandcamp.com/album/sequence2”&amp;amp;amp;amp;amp;amp;gt;SEQUENCE2 by The Oo-ray&amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;gt;
-</iframe>
-</p><p><iframe src="https://bandcamp.com/EmbeddedPlayer/album=237037571/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/track=250069349/transparent=true/" style="border: 0; width: 300px; height: 300px;">&amp;amp;amp;amp;amp;amp;lt;a href=”http://futuresequence.bandcamp.com/album/sequence3” data-mce-href=”http://futuresequence.bandcamp.com/album/sequence3”&amp;amp;amp;amp;amp;amp;gt;SEQUENCE3 by The Oo-ray&amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;gt;</iframe> <iframe src="https://bandcamp.com/EmbeddedPlayer/album=409951515/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/track=1335997611/transparent=true/" style="border: 0; width: 300px; height: 300px;"></p>
-<div id="quarto-navigation-envelope" class="hidden">
-<p><span class="hidden" data-render-id="quarto-int-sidebar-title">The OO-Ray</span> <span class="hidden" data-render-id="quarto-int-navbar-title">The OO-Ray</span> <span class="hidden" data-render-id="quarto-int-navbar:Bio">Bio</span> <span class="hidden" data-render-id="quarto-int-navbar:Music">Music</span> <span class="hidden" data-render-id="quarto-int-navbar:Videos">Videos</span> <span class="hidden" data-render-id="quarto-int-navbar:Press Info">Press Info</span> <span class="hidden" data-render-id="quarto-int-navbar:Licensing">Licensing</span> <span class="hidden" data-render-id="quarto-int-navbar:Mailing List">Mailing List</span></p>
-</div>
-<div id="quarto-meta-markdown" class="hidden">
-<p><span class="hidden" data-render-id="quarto-metatitle">The OO-Ray - Music</span> <span class="hidden" data-render-id="quarto-twittercardtitle">The OO-Ray - Music</span> <span class="hidden" data-render-id="quarto-ogcardtitle">The OO-Ray - Music</span> <span class="hidden" data-render-id="quarto-metasitename">The OO-Ray</span></p>
-</div>
-</section>
-</section>
 
-</main> <!-- /main -->
-<script id = "quarto-html-after-body" type="application/javascript">
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="album,audiobulb" data-listing-date-sort="1676275200000" data-listing-file-modified-sort="1677689891986" data-listing-reading-time-sort="0.09">
+<div class="thumbnail">
+<p><a href="./music/generate/index.html"> <img src="./music/generate/cover.jpeg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./music/generate/index.html">
+<h3 class="no-anchor listing-title">
+Generate
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('album'); return false;">
+album
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('audiobulb'); return false;">
+audiobulb
+</div>
+</div>
+<a href="./music/generate/index.html">
+<div class="listing-description">
+Bandcamp
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./music/generate/index.html">
+<div class="listing-date">
+Feb 13, 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="album,audiobulb" data-listing-date-sort="1436770800000" data-listing-file-modified-sort="1677689734393" data-listing-reading-time-sort="0.11">
+<div class="thumbnail">
+<p><a href="./music/tiny_fugues/index.html"> <img src="./music/tiny_fugues/cover.jpeg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./music/tiny_fugues/index.html">
+<h3 class="no-anchor listing-title">
+Tiny Fugues
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('album'); return false;">
+album
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('audiobulb'); return false;">
+audiobulb
+</div>
+</div>
+<a href="./music/tiny_fugues/index.html">
+<div class="listing-description">
+Album released on Audiobulb.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./music/tiny_fugues/index.html">
+<div class="listing-date">
+Jul 13, 2015
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="album,lifelike-family" data-listing-date-sort="1420099200000" data-listing-file-modified-sort="1677689289902" data-listing-reading-time-sort="1.175">
+<div class="thumbnail">
+<p><a href="./music/empty_orchestra/index.html"> <img src="./music/empty_orchestra/cover.jpeg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./music/empty_orchestra/index.html">
+<h3 class="no-anchor listing-title">
+Empty Orchestra
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('album'); return false;">
+album
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('lifelike-family'); return false;">
+lifelike-family
+</div>
+</div>
+<a href="./music/empty_orchestra/index.html">
+<div class="listing-description">
+Bandcamp Free Music Archive
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./music/empty_orchestra/index.html">
+<div class="listing-date">
+Jan 1, 2015
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="album" data-listing-date-sort="1369465200000" data-listing-file-modified-sort="1677689278797" data-listing-reading-time-sort="0.135">
+<div class="thumbnail">
+<p><a href="./music/force_of_water/index.html"> <img src="./music/force_of_water/cover.jpeg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./music/force_of_water/index.html">
+<h3 class="no-anchor listing-title">
+Force of Water
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('album'); return false;">
+album
+</div>
+</div>
+<a href="./music/force_of_water/index.html">
+<div class="listing-description">
+Album released on Waveguide Audio.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./music/force_of_water/index.html">
+<div class="listing-date">
+May 25, 2013
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="album" data-listing-date-sort="1314860400000" data-listing-file-modified-sort="1677689672158" data-listing-reading-time-sort="0.12">
+<div class="thumbnail">
+<p><a href="./music/astoria/index.html"> <img src="./music/astoria/cover.jpeg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./music/astoria/index.html">
+<h3 class="no-anchor listing-title">
+Astoria
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('album'); return false;">
+album
+</div>
+</div>
+<a href="./music/astoria/index.html">
+<div class="listing-description">
+Album released on Waveguide Audio.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./music/astoria/index.html">
+<div class="listing-date">
+Sep 1, 2011
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");
@@ -390,6 +488,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 </div> <!-- /content -->
 
-</body>
 
-</html></iframe></p></section></section></main></div></body></html>
+
+</body></html>

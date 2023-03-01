@@ -1,5 +1,5 @@
 ---
-title: "The OO-Ray: Cellist, Composer, Programmer"
+title: "The OO-Ray: Cellist, Composer, Developer"
 image: texture.jpg
 listing:
   contents: posts

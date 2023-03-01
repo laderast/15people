@@ -1,0 +1,17 @@
+---
+title: "Tiny Fugues"
+date: 2015-07-13
+categories: [album, audiobulb]
+---
+
+![Cover](cover.jpeg) 
+
+Album released on Audiobulb.
+
+# Links
+
+[Bandcamp](https://theoo-ray.bandcamp.com/album/tiny-fugues){.btn .btn-primary role="button"} 
+
+# Listen
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1732544354/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://theoo-ray.bandcamp.com/album/tiny-fugues">Tiny Fugues by The OO-Ray</a></iframe>

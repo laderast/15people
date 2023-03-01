@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/music.html",
+    "items": [
+      "/music/generate/index.html",
+      "/music/tiny_fugues/index.html",
+      "/music/empty_orchestra/index.html",
+      "/music/force_of_water/index.html",
+      "/music/astoria/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/2023-02-14-generate-album-now-on-audiobulb/index.html",
