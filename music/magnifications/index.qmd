@@ -1,0 +1,17 @@
+---
+title: "Magnifications"
+date: 2009-09-01
+categories: [album]
+---
+
+![Cover](cover.jpeg) 
+
+Album released on Luvsound.
+
+# Links
+
+[Archive.Org](https://archive.org/details/luv022){.btn .btn-primary role="button"} [Notes (by Marc Weidenbaum)](https://archive.org/download/luv022/luv022_onesheet.pdf){.btn .btn-primary role="button"}
+
+# Listen
+
+<iframe src="https://archive.org/embed/luv022" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
