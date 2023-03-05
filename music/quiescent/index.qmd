@@ -1,0 +1,25 @@
+---
+title: "Quiescent EP"
+date: 2020-03-29
+categories: [EP]
+---
+
+![Cover](cover.jpeg) 
+
+EP. Profits go to 
+
+# Links
+
+[Bandcamp](https://ooray.bandcamp.com/album/quiescent){.btn .btn-primary role="button"} 
+
+# Listen
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2825063567/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ooray.bandcamp.com/album/quiescent">Quiescent by The OO-Ray</a></iframe>
+
+# Songs
+
+1. Rings and Guitar (1:47)
+2. Forgetful (7:16)
+3. An Obscured Moon (5:11)
+4. Hanami (9:35)
+5. Rings and Cello (1:24)
