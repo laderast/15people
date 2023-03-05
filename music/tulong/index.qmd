@@ -1,7 +1,7 @@
 ---
 title: "Tesselations (with Marcus Fischer)"
 date: 2020-03-29
-categories: [EP, collaboration, marcus fischer, opticecho]
+categories: [album, collaboration, marcus fischer, opticecho]
 ---
 
 ![Cover](cover.jpeg) 
