@@ -3,6 +3,7 @@
     "listing": "/music.html",
     "items": [
       "/music/generate/index.html",
+      "/music/tesselations/index.html",
       "/music/quiescent/index.html",
       "/music/tulong/index.html",
       "/music/tiny_fugues/index.html",
