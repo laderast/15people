@@ -1,7 +1,7 @@
 ---
 title: "Tulong (with Marcus Fischer)"
 date: 2020-03-29
-categories: [EP, collaboration, marcus-fischer]
+categories: [EP, collaboration, marcus fischer]
 ---
 
 ![Cover](cover.jpeg) 

@@ -1,7 +1,7 @@
 ---
 title: "Film Variations (with Marcus Fischer)"
 date: 2017-06-08
-categories: [album, film, collaboration, marcus-fischer]
+categories: [album, film, collaboration, marcus fischer]
 ---
 
 ![Cover](cover.jpeg) 
