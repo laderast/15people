@@ -3,6 +3,7 @@
     "listing": "/music.html",
     "items": [
       "/music/generate/index.html",
+      "/music/phlogiston/index.html",
       "/music/live-at-turnx3/index.html",
       "/music/quiescent/index.html",
       "/music/tulong/index.html",
