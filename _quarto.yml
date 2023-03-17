@@ -3,6 +3,7 @@ project:
 
 website:
   title: "The OO-Ray"
+  google-analytics: "G-KSSKDNK101"
   navbar:
     right:
       - about.qmd
