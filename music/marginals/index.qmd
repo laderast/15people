@@ -1,7 +1,7 @@
 ---
 title: "Marginals"
 date: 2025-08-15
-categories: [album, audiobulb]
+categories: [album, beacon sound]
 ---
 
 ![Cover](cover.jpeg) 
