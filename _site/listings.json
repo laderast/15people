@@ -28,6 +28,7 @@
   {
     "listing": "/music.html",
     "items": [
+      "/music/marginals/index.html",
       "/music/generate/index.html",
       "/music/phlogiston/index.html",
       "/music/live-at-turnx3/index.html",
