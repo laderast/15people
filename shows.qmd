@@ -1,0 +1,13 @@
+---
+title: "Showography"
+page-layout: full
+listing:
+  id: listing-gallery
+  template: gallery.ejs
+  contents:
+    - show-posters/*
+  sort-ui: true
+  filter-ui: false
+  categories: false
+---
+

@@ -43,5 +43,9 @@
       "/music/astoria/index.html",
       "/music/magnifications/index.html"
     ]
+  },
+  {
+    "listing": "/shows.html",
+    "items": []
   }
 ]
