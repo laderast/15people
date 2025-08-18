@@ -10,6 +10,7 @@ website:
       - music.qmd
       - videos.qmd
       - press.qmd
+      - shows.qmd
       - licensing.qmd
       - href: https://tinyletter.com/ooray
         text: Mailing List
