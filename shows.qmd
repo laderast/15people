@@ -11,4 +11,4 @@ listing:
   categories: false
 ---
 
-Here is a selection of shows that I've played, in no particular order.
+Here is a selection of posters from shows that I've played.
