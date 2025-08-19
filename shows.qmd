@@ -6,7 +6,7 @@ listing:
   template: gallery.ejs
   contents:
     - show-posters/*
-  sort-ui: true
+  sort-ui: false
   filter-ui: false
   categories: false
 ---
