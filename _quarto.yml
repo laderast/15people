@@ -11,8 +11,7 @@ website:
       - press.qmd
       - shows.qmd
       - licensing.qmd
-      - href: https://tinyletter.com/ooray
-        text: Mailing List
+      - mailing.qmd
       
 format:
   html:
