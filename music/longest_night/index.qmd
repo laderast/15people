@@ -1,0 +1,19 @@
+---
+title: "Longest Night on the Peninsula"
+date: 2024-12-30
+categories: [ep]
+---
+
+![Cover](long-cover.jpg) 
+
+My holiday gift to you this year. Pay as you like.
+
+Re-recorded live set for the Winter Solstice festival (December 21, 2024) at the Sou'wester Lodge in Seaview, WA.
+
+# Links
+
+[Bandcamp](https://ooray.bandcamp.com/album/longest-night-on-the-peninsula){.btn .btn-primary role="button"} 
+
+# Listen
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=760796704/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ooray.bandcamp.com/album/longest-night-on-the-peninsula">Longest Night on the Peninsula by The OO-Ray</a></iframe>
