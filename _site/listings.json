@@ -4,28 +4,6 @@
     "items": []
   },
   {
-    "listing": "/music.html",
-    "items": [
-      "/music/marginals/index.html",
-      "/music/longest_night/index.html",
-      "/music/live-at-leaven-community/index.html",
-      "/music/arp_sine/index.html",
-      "/music/generate/index.html",
-      "/music/phlogiston/index.html",
-      "/music/live-at-turnx3/index.html",
-      "/music/quiescent/index.html",
-      "/music/tulong/index.html",
-      "/music/tiny_fugues/index.html",
-      "/music/film_variations/index.html",
-      "/music/empty_orchestra/index.html",
-      "/music/snowglobe/index.html",
-      "/music/force_of_water/index.html",
-      "/music/tesselations/index.html",
-      "/music/astoria/index.html",
-      "/music/magnifications/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/posts/2025-08-08-marginals.html",
@@ -49,6 +27,28 @@
       "/posts/2015-06-05-on-recharging.html",
       "/posts/2015-05-27-on-craft.html",
       "/posts/2015-05-09-on-sensitivity.html"
+    ]
+  },
+  {
+    "listing": "/music.html",
+    "items": [
+      "/music/marginals/index.html",
+      "/music/longest_night/index.html",
+      "/music/live-at-leaven-community/index.html",
+      "/music/arp_sine/index.html",
+      "/music/generate/index.html",
+      "/music/phlogiston/index.html",
+      "/music/live-at-turnx3/index.html",
+      "/music/quiescent/index.html",
+      "/music/tulong/index.html",
+      "/music/tiny_fugues/index.html",
+      "/music/film_variations/index.html",
+      "/music/empty_orchestra/index.html",
+      "/music/snowglobe/index.html",
+      "/music/force_of_water/index.html",
+      "/music/tesselations/index.html",
+      "/music/astoria/index.html",
+      "/music/magnifications/index.html"
     ]
   }
 ]
